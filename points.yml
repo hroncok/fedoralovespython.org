@@ -8,6 +8,24 @@
 
     To show points that are not ready, add `__future__/` to the URL.
 
+    By the way, this point has a few more lines.
+
+    *Can you count them all?*
+
+    Another line is here!
+
+    Another line is here!
+
+    Another line is here!
+
+    Another line is here!
+
+    Another line is here!
+
+    Another line is here!
+
+    And that is it.
+
     [markdown]: https://pypi.python.org/pypi/Markdown
   link:
     href: http://example.com
@@ -20,6 +38,7 @@
 
     1. Install Fedora.
     2. There is no step 2.
+  logo: prompt
   link:
     href: http://example.com
     caption: Find out more!
@@ -28,6 +47,7 @@
   content: |
     We have many varieties of Python in Fedora!
     Pick one, or test them all!
+  logo: implementations
   link:
     href: http://example.com
     caption: Find out more!
